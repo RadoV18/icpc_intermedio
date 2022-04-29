@@ -1,6 +1,6 @@
 # ICPC - Nivel Intermedio
 ## Configuración de CS50
-### Video de ayuda para la configuracion y comandos de primera clase [AQUI]()
+### Video de ayuda para la configuracion y comandos de primera clase [AQUI](https://youtu.be/xH0FHIrH4lY)
 1. Visitar [CS50 IDE](https://ide.cs50.io/)
 2. Colocar en linea de comandos:
 
